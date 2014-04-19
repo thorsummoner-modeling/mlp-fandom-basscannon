@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_pony/EpicBassCannon"
+	"$bumpmap" "models/props_pony/EpicBassCannon_ssbump"
+	"$surfaceprop" "Metal"
+}
